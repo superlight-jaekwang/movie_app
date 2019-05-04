@@ -4,6 +4,8 @@ This movie_app was developed with React.
 
 https://yts.am/api#list_movies was used to get list of movies.
 
+You can check this app(https://superlight-jaekwang.github.io/movie_app/).
+
 ## Available Scripts
 
 In the project directory, you can run:
