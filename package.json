@@ -32,7 +32,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://superlight-jaekwang.github.io/movie_app",
+  "homepage": "https://superlight-jaekwang.github.io/movie_app/",
   "devDependencies": {
     "gh-pages": "^2.0.1"
   }
