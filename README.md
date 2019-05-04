@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This movie_app was developed with React.
+
+https://yts.am/api#list_movies was used to get list of movies.
+
 ## Available Scripts
 
 In the project directory, you can run:
